@@ -13,7 +13,8 @@ INDIVIDUALLY FOR MOST OF THE ITEM SPAWN)
 	Buffs = can be used to gain 
 	Remove Ability = removes the ability 
 	Learn Skills = can be used to learn lot of special skills of character tree of game
-	Player Modifiers = has the options to level up and others
+	Player Modifiers = has the options to level up,add money, set level and others
+	Others = has the options for ....
 Consumables
 	Food = Can be used to most of the food items in witcher3
 	Potions = Can be used to Potions and Mutagens in witcher3
