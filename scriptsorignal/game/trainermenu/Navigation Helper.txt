@@ -1,0 +1,10 @@
+Here's the Navigation List
+
+Consumables
+- Food = Can be used to most of the food items in witcher3
+- Potions = Can be used to Potions and Mutagens in witcher3
+Collectibles
+- Gwent Card = Can be used to spawn almost 200 + beloved gwent cards in Witcher3
+- Dyes = To spawn all dyes in game
+- Trophies = To spawn most of the trophies in withcer3
+ 

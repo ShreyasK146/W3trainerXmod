@@ -17,3 +17,14 @@ documents/witcher3/
 paste the below line inside [Exploration] section 
 <.>
 
+
+Mod menu in game can be opened/closed by button P or <Joystick Key......>
+E can be used to select or enter
+Arrow Keys can be used to navigate the things 
+left - back
+right - enter/go to the next section 
+up and down - navigate up or down on list 
+
+
+
+Joy stick things can also be used ..
