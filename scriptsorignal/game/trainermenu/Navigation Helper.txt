@@ -8,11 +8,11 @@ INDIVIDUALLY FOR MOST OF THE ITEM SPAWN)
 	Weather = Can be used to change weather of the game(NOTE some weather change only work on some areas)
 	SetDifficulty = Can be used to change the difficulty of the game
 	Teleport To = direct teleport to different worlds
-	Change Time Flow
-	Change Game Speed
-	Buffs
-	Remove Ability
-	Learn Skills
+	Change Time Flow = can be used to change the time speed higher the speed day night cycle is fast slow is opposite
+	Change Game Speed = can be used to change the speed to slow motion or fast fast 
+	Buffs = can be used to gain 
+	Remove Ability = removes the ability 
+	Learn Skills = can be used to learn lot of special skills of character tree of game
 	Player Modifiers = has the options to level up and others
 Consumables
 	Food = Can be used to most of the food items in witcher3
@@ -21,7 +21,7 @@ Collectibls
 	Gwent Cards = Can be used to spawn almost 200 + beloved gwent cards in Witcher3
 	Dyes = To spawn all dyes in gae
 	Trophies = To spawn most of the trophies in withcer3
-	Valuables
+	Valuables = can be used to spawn sellable items in game
 Gear 
 	Apparel
 		Chest Armor = Can be used to spawn most of the armors in witcher3
@@ -30,34 +30,33 @@ Gear
 		Boots = Can be used to spawn most of the boots in witcher3
 	Weapons
 		Swords
-			Steel Swords = Can be used to spawn
-			Silver Sword
-		Crossbows
-		Secondary
-		Bombs and Bolts
-	Decorations
+			Steel Swords = Can be used to spawn most of the steel swords in witcher3
+			Silver Sword = Can be used to spawn most of the silver swords in witcher3
+		Crossbows = can be used to spawn most of the crossbows in witcher3
+		Secondary = can be used to spawn most of the secondary items in witcher3
+		Bombs and Bolts = can be used to spawn bombs and bolts in witcher3
+	Decorations = can be used to spawn decoration items such as mask for geralt in witcher3
 Quest and Exploration
-	Horse Items
-	Quest Items
-	Notices
+	Horse Items = can be used to spawn all horse items in game
+	Quest Items = can be used to spawn quest items in game
+	Notices = can be used to spawn notices in game
 Crafting and Inventory
-	Schematics
-	Others
-	Leather
-	Metals
-	Monster Items
-	Herbs
-	Runes
-	Ingredients
-	Misc
-	Junk
+	Schematics = can be used to spawn Schematics in game
+	Others = can be used to spawn random items of game
+	Leather = can be used to spawn leather items in game
+	Metals = can be used to spawn metals of game
+	Monster Items = can be used to spawn monster items of game
+	Herbs = can be used to spawn herbs of game
+	Runes = can be used to spawn runes of game
+	Ingredients = can be used to spawn notices in game
+	Misc = can be used to spawn some more random items in game?
+	Junk = can be used to spawn more junks in game
 	Recipies
-		Mutagens
-		Dyes
-		Bolts
-		Potions
-		Bombs
-		Oils	
+		Mutagens = can be used to spawn mutagen recipies
+		Bolts = can be used to spawn bolts recipies
+		Potions = can be used to spawn potions recipies
+		Bombs = can be used to spawn bombs recipies
+		Oils = can be used to spawn oil recipies
 Collectibles
-	Lore Items
-	Books
+	Lore Items = can be used to spawn lore items of game
+	Books = can be used to spawn books of game
