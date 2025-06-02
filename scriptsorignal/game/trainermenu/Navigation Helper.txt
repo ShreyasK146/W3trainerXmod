@@ -7,6 +7,7 @@ Collectibls
 	Gwent Cards = Can be used to spawn almost 200 + beloved gwent cards in Witcher3
 	Dyes = To spawn all dyes in gae
 	Trophies = To spawn most of the trophies in withcer3
+	Valuables
 Gear 
 	Apparel
 		Chest Armor
@@ -20,7 +21,41 @@ Gear
 		Crossbows
 		Secondary
 		Bombs and Bolts
+	Decorations
 Quest and Exploration
 	Horse Items
 	Quest Items
 	Notices
+Crafting and Inventory
+	Schematics
+	Others
+	Leather
+	Metals
+	Monster Items
+	Herbs
+	Runes
+	Ingredients
+	Misc
+	Junk
+	Recipies
+		Mutagens
+		Dyes
+		Bolts
+		Potions
+		Bombs
+		Oils	
+Collectibles
+	Lore Items
+	Books
+Cheats and Debug
+	Add Set of Items
+	Heads and Hair Styles
+	Add Ability
+	Weather
+	SetDifficulty
+	Teleport To
+	Change Time Flow
+	Change Game Speed
+	Buffs
+	Remove Ability
+	Learn Skills
