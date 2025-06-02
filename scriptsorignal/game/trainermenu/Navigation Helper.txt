@@ -1,5 +1,19 @@
 Here's the Navigation List
-
+Cheats and Debug
+	Add Set of Items = This can be used if you dont want to choose and spawn individual items
+contains bunch of sets which you can choose and spawn(YOU MIGHT NOT GET ALL ELEMENT FROM HERE GO FOR NORMAL ADDING OF ITEMS
+INDIVIDUALLY FOR MOST OF THE ITEM SPAWN)
+	Heads and Hair Styles = Has the options to change the hair,beard and tattoo style for geralt
+	Add Ability = Can be used to activate bunch of ability
+	Weather = Can be used to change weather of the game(NOTE some weather change only work on some areas)
+	SetDifficulty = Can be used to change the difficulty of the game
+	Teleport To = direct teleport to different worlds
+	Change Time Flow
+	Change Game Speed
+	Buffs
+	Remove Ability
+	Learn Skills
+	Player Modifiers = has the options to level up and others
 Consumables
 	Food = Can be used to most of the food items in witcher3
 	Potions = Can be used to Potions and Mutagens in witcher3
@@ -10,13 +24,13 @@ Collectibls
 	Valuables
 Gear 
 	Apparel
-		Chest Armor
-		Gloves
-		Trousers
-		Boots
+		Chest Armor = Can be used to spawn most of the armors in witcher3
+		Gloves = Can be used to spawn most of the gloves in witcher3
+		Trousers = Can be used to spawn most of the pants in witcher3
+		Boots = Can be used to spawn most of the boots in witcher3
 	Weapons
 		Swords
-			Steel Swords
+			Steel Swords = Can be used to spawn
 			Silver Sword
 		Crossbows
 		Secondary
@@ -47,15 +61,3 @@ Crafting and Inventory
 Collectibles
 	Lore Items
 	Books
-Cheats and Debug
-	Add Set of Items
-	Heads and Hair Styles
-	Add Ability
-	Weather
-	SetDifficulty
-	Teleport To
-	Change Time Flow
-	Change Game Speed
-	Buffs
-	Remove Ability
-	Learn Skills
